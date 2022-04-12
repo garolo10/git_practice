@@ -1,5 +1,5 @@
 Archivo de prueba...
 
-Entonces, este s
+Esto deberia tener un conflicto con el archivo original.
 
 Aqui estoy haciendo un cambio que no deberia tener conflictos.
