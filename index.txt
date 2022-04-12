@@ -1,5 +1,5 @@
 Archivo de prueba...
 
-La idea es ir practicando hacer branches, pulls, push, etc.
+Entonces, este s
 
 Aqui estoy haciendo un cambio que no deberia tener conflictos.
